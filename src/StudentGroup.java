@@ -38,13 +38,13 @@ public class StudentGroup implements StudentArrayOperation {
 	@Override
 	public Student getStudent(int index) {
 		// Add your implementation here
-		return this.students[index];
+		//return this.students[index];
 	}
 
 	@Override
 	public void setStudent(Student student, int index) {
 		// Add your implementation here
-		this.students[index]=student;
+		//this.students[index]=student;
 	}
 
 	@Override
