@@ -39,6 +39,7 @@ public class StudentGroup implements StudentArrayOperation {
 	public Student getStudent(int index) {
 		// Add your implementation here
 		//return this.students[index];
+		return null;
 	}
 
 	@Override
